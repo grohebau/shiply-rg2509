@@ -1,0 +1,47 @@
+{
+  "S26113": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Uwe Stille, Marktstr. 66, 41844 Wegberg, Deutschland",
+    "price": "11.025 €",
+    "description": "Hersteller: BMW<br>Typ: R 1250 RT<br>Fahrgestelnummer: WB10L0107N6F93902<br>Erstzulassung: 23.06.2022<br>KM laut Vorbesitzer: 19.600 km<br>Leistung: 100 kW (136 PS)<br>Hubraum: 1.254 cm³<br>Farbe: Manhattan Metallic<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Die Koffer und das Topcase sind im Lieferumfang enthalten.<br>Ausstattung:<br>Dynamic ESA<br>Keyless Ride<br>Schaltassistent Pro<br>Intelligenter Notruf<br>Fahrmodi<br>Tempomat<br>Abstandsregelung<br>Diebstahlesrnanlage<br>Navi<br>Heizung Sitze und Griffe<br> Großes TFT Audiosystem.",
+    "address": "Uwe Stille<br>Marktstr. 66<br>41844 Wegberg<br>Deutschland<br>Telefon: +49 173 6574416",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "12.01.2026",
+    "deliveryDate": "16.01.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
